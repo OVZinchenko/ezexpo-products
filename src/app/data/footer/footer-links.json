@@ -1,0 +1,105 @@
+[
+  {
+    "title": "Categories",
+    "links": [
+      {
+        "text": "Expo",
+        "link": "#"
+      },
+      {
+        "text": "Events",
+        "link": "#"
+      },
+      {
+        "text": "Furniture",
+        "link": "#"
+      },
+      {
+        "text": "LF Printing",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Navigate",
+    "links": [
+      {
+        "text": "Home",
+        "link": "/"
+      },
+      {
+        "text": "Green Products",
+        "link": "#"
+      },
+      {
+        "text": "Gallary",
+        "link": "#"
+      },
+      {
+        "text": "3D Builder",
+        "link": "#"
+      },
+      {
+        "text": "About Us",
+        "link": "#"
+      },
+      {
+        "text": "Shipping and returns policy",
+        "link": "#"
+      },
+      {
+        "text": "Terms and conditions",
+        "link": "#"
+      },
+      {
+        "text": "Blog",
+        "link": "#"
+      }
+    ]
+  },
+  {
+    "title": "Our Brands",
+    "links": [
+      {
+        "text": "Ezexpo",
+        "link": "#"
+      },
+      {
+        "text": "Samsung",
+        "link": "#"
+      },
+      {
+        "text": "Shure",
+        "link": "#"
+      },
+      {
+        "text": "Vello",
+        "link": "#"
+      },
+      {
+        "text": "Wansa",
+        "link": "#"
+      },
+      {
+        "text": "Yamaha",
+        "link": "#"
+      },
+      {
+        "text": "Hitachi",
+        "link": "#"
+      },
+      {
+        "text": "LG",
+        "link": "#"
+      }, 
+      {
+        "text": "Sony",
+        "link": "#"
+      },
+      {
+        "text": "View All Brands",
+        "link": "#"
+      }
+    ]
+  }
+]

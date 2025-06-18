@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: 123 167 63;
+    --color-secondary: 46 91 91;
+  }
+}
+
+:root {
+  --foreground-rgba: 33, 43, 54, 1;
+  --background-rgba: 249, 250, 251, 1;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgba: 33, 43, 54, 1;
+    --background-rgba: 249, 250, 251, 1;
+  }
+}
+
+body {
+  color: rgba(var(--foreground-rgba));
+  background: rgba(var(--background-rgba));
+}
